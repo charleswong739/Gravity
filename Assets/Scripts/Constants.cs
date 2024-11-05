@@ -4,5 +4,5 @@ using UnityEngine;
 
 struct Constants
 {
-    public const float G = 6.67E-11f;
+    public const float G = 0.001f;
 }
